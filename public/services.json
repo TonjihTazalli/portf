@@ -1,0 +1,56 @@
+
+[
+    {
+        "id": 1,
+        "name": "Fresh Fruits",
+        
+        
+        "description": "It is a website where you can add fruits in cart, remove those, choose randomly one from them,also delete the cart",
+        
+        "img": "https://i.ibb.co/g7SGPFh/f1.png",
+        "technology": "Javascript, Bootstrap, CSS",
+        "Live_Link": ""
+    },
+    {
+        "id": 2,
+        "name": "Stationary portal",
+        "Live_Link": "https://stationary-portal.web.app",
+        
+        "description": "This is a manufracturer website. Here you can get stationary items in wholesale",
+        "technology": "Javascript, React Router, DaisyUi",
+        
+        "img": "https://i.ibb.co/ZS5j1qw/f2.png"
+        
+    },
+    {
+        "id": 3,
+        "name": "Wedding convention center",
+        
+        "description": "Here you can get all the affordable packages for your wedding venue",
+        "technology": "Javascript, Bootstrap, CSS",
+        "img": "https://i.ibb.co/FzPz3LV/f3.png",
+        
+        "Live Link": ""
+    },
+
+    {
+        "id": 4,
+        "name": "Food Inventory",
+        
+        "description": " Here you can get an inventory for food",
+        "technology": "Javascript, Bootstrap, Tailwind CSS",
+        "img": "https://i.ibb.co/PQtZYrw/f4.png",
+        
+        "Live Link": "https://foodinventory-7c291.web.app/"
+    },
+    {
+        "id": 5,
+        "name": "Money Calculator",
+        
+        "description": "This is a money Calculatorr website, where you can just input your expenses and can see your reast of the amounts",
+        "technology": "Javascript, Bootstrap, CSS",
+        
+        "img": "https://i.ibb.co/jW2bf4n/f5.png",
+        "Live Link": ""
+    }
+]
